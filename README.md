@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivam Sharma
+Hi ! My name is Shivam Sharma
 =====================================================================================================================================
 
 Web Developer, AI enthusiast
@@ -9,7 +9,7 @@ Hi there, I am Shivam Sharma. I have been coding for the last 1.5 years which I 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [@shivamhwp on twitter]
 * 🧠  I'm learning DSA & Devops.
-* 🤝  I'm open to collaborating on web dev, blockchain dev
+* 🤝  I'm open to collaborating on web dev.
 
 ### Skills
 
