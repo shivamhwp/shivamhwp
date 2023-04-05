@@ -7,8 +7,8 @@ Web Developer, AI enthusiast
 Hi there, I am Shivam Sharma. I have been coding for the last 1.5 years which I experimented with android development, cross-platform development, and blockchain development. rn I am doing web development
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [@shivamhwp on twitter]
-* 🧠  I'm learning DSA & Devops.
+* ✉️  You can contact me at shivamdevelops@skiff.com.
+* 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on web dev.
 
 ### Skills
