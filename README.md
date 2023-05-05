@@ -1,14 +1,12 @@
 Hi ! My name is Shivam Sharma
 =====================================================================================================================================
 
-Web Developer, AI enthusiast
+Full Stack Web Developer
 ----------------------------
 
-Hi there, I am Shivam Sharma. I have been coding for the last 1.5 years which I experimented with android development, cross-platform development, and blockchain development. rn I am doing web development
+Hi there, I am Shivam Sharma. I have been coding for the last 1.5 years which I experimented with android development, cross-platform app development, and blockchain development. rn I am doing web development
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at shivamdevelops@skiff.com.
-* 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on web dev.
 
 ### Skills
@@ -24,9 +22,6 @@ Hi there, I am Shivam Sharma. I have been coding for the last 1.5 years which I 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 
 
 
