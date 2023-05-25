@@ -1,10 +1,6 @@
-Hi ! I'm Shivam Sharma
+web dev
 =====================================================================================================================================
-
-Web Developer
-----------------------------
-
-* ✉️  You can contact me at shivamdevelops@skiff.com.
+* ✉️ Contact me => shivamdevelops@skiff.com.
 
 ### Skills
 
