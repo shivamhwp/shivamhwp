@@ -1,1 +1,2 @@
-* ✉️ let's chat - shivamdevelops@skiff.com
+* work contact - shivamdevelops@skiff.com
+* shivamhwp on socials.
