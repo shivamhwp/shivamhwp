@@ -1,2 +1,2 @@
-* work contact - shivamcod2@gmail.com
+* [https://www.shivam.ing]shivam.ing
 * shivamhwp on socials.
