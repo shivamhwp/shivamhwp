@@ -11,7 +11,7 @@ tech: nextjs,typescript,t3-stack,postgres,drizzle orm
 
 ### meeraki foundation
 
-- [meeraki foundation](https://meerakifoundation.org) is a non-profit organization that aims to provide quality education to the underprivileged children in India. i manage the technical aspects of the org.
+- [meeraki foundation](https://meerakifoundation.org) is a non-profit organization that aims to provide assistance, support, and resources to communities in need in India. i manage the technical aspects of the org.
 
 tech: nextjs,typescript,sanity cms
 
