@@ -36,7 +36,7 @@ B.Tech in Computer Science from [Chandigarh university](https://www.cuchd.in/)
 [rust](https://www.rust-lang.org/)
 
 ## Contact
----
+
 - site: [shivam.ing](https://shivam.ing)
 - youtube: [yt](https://www.youtube.com/@shivamhwp_)
 - twitter: [shivamhwp](https://twitter.com/shivamhwp)
