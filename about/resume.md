@@ -12,9 +12,9 @@ tech: nextjs,typescript,t3-stack,postgres,drizzle orm
 
 tech: nextjs,typescript,sanity cms
 
-[rev](https://rev-beta.vercel.app)
+[rev](https://github.com/shivamhwp/rev)
 
-[twemoji](https://twemoji-t3.vercel.app)
+[twemoji](https://github.com/shivamhwp/twemoji)
 
 [omegle](https://github.com/shivamhwp/omegle-webrtc) tried webrtc with [harkirat](https://www.youtube.com/@harkirat1)
 
