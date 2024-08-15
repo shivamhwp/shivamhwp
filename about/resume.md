@@ -4,9 +4,6 @@
 
 ## Projects
 
-### zero
-- [zero](https://zzero.vercel.app) is a journal type sleep app that helps in tracking your sleep patterns and get's it fixed through different science based methods. at [buildspace](https://buildspace.so)
-
 tech: nextjs,typescript,t3-stack,postgres,drizzle orm
 
 ### meeraki foundation
