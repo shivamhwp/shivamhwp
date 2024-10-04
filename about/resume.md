@@ -28,9 +28,7 @@ B.Tech in Computer Science from [Chandigarh university](https://www.cuchd.in/)
 ### Things I'm good at
 [react](https://reactjs.org/), [typescript](https://www.typescriptlang.org/)
 ### Things I like a lot(personal time)
-[bun](https://bun.sh), [astro](https://astro.build)
-### Things I'm learning(trying to learn)
-[rust](https://www.rust-lang.org/)
+[bun](https://bun.sh), [astro](https://astro.build),[react-native](https://reactnative.dev/)
 
 ## Contact
 
