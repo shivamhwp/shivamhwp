@@ -7,7 +7,8 @@
 - repo : https://github.com/shivamhwp/git-acm | written in rust 🦀 
 - docs : https://git-acm.pages.dev/guides/introduction/
 - cli app that generates commit messages instantly and locally with AI.
-- stats : ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/shivamhwp/git-acm/release.yml)
+- stats : ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm?labelColor=%23222&color=white)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/shivamhwp/git-acm/release.yml?labelColor=%23222&color=white)
 
 
 ### rev 
