@@ -10,7 +10,7 @@
 
 ### isup
 - repo : https://git.new/isup | written in rust 🦀
-- cli app that checks whether a site, service or even a particular route is down or not.
+- on-device monitoring. super-lightweight, efficient and instant.
 - stats : ![Crates.io Total Downloads](https://img.shields.io/crates/d/isup?labelColor=%23222&color=white)
 
 ### rev 
