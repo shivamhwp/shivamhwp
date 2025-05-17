@@ -1,8 +1,8 @@
 ## shivam
 
-currently :  doing research [@supermemory](https://github.com/supermemoryai)
+currently :  doing ai research [@supermemory](https://github.com/supermemoryai)
 
-## projects
+## stuff i built
 
 ### git-acm
     
@@ -22,13 +22,6 @@ https://github.com/shivamhwp/rev
 
 B.Tech CS - dropped out.
 
-
-## Tech
-
-### Things I'm good at 
-react, typescript, rust, full-stack development.
-
 - site: [shivam.ing](https://shivam.ing)
 - twitter: [shivamhwp](https://twitter.com/shivamhwp)
-- linkedin: [shivamhwp](https://www.linkedin.com/in/shivamhwp/)
 
