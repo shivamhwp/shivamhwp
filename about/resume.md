@@ -1,5 +1,7 @@
 ## shivam
 
+currently :  doing research [@supermemory](https://github.com/supermemoryai)
+
 ## projects
 
 ### git-acm
@@ -18,12 +20,12 @@ https://github.com/shivamhwp/rev
 
 ## Education
 
-B.Tech CS from [CU](https://www.cuchd.in/) - dropped out.
+B.Tech CS - dropped out.
 
 
 ## Tech
 
-### Things I'm good at
+### Things I'm good at 
 react, typescript, rust, full-stack development.
 
 - site: [shivam.ing](https://shivam.ing)
