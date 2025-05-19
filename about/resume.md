@@ -1,7 +1,5 @@
 ## shivam
 
-currently :  doing ai research [@supermemory](https://github.com/supermemoryai)
-
 ## stuff i built
 
 ### git-acm
