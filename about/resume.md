@@ -2,19 +2,18 @@
 
 ## stuff i built
 
-### git-acm
-    
-- repo : https://git.new/git-acm | written in rust 🦀 
-- cli app that generates commit messages instantly and locally with AI.
+### [ai evaluation pipeline](https://github.com/shivamhwp/sm-evals)
+- include mulitple scripts to evaluate and plot graphs etc.
+
+### [git-acm]([https://git.new/git-acm)
+
+- cli app that generates commit messages instantly and locally with AI | written in rust.
 - stats : ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm?labelColor=%23222&color=white)
 
-### isup
-- repo : https://git.new/isup | written in rust 🦀
-- on-device monitoring. super-lightweight, efficient and instant.
+### [isup](https://git.new/isup)
+- on-device monitoring. super-lightweight, efficient and instant | written in rust.
 - stats : ![Crates.io Total Downloads](https://img.shields.io/crates/d/isup?labelColor=%23222&color=white)
 
-### rev 
-https://github.com/shivamhwp/rev
 
 ## Education
 
