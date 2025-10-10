@@ -6,6 +6,8 @@
 
 ### stuff i built
 
+### [0bs.chat](https://github.com/0bs-chat/zerobs)
+
 ### [ai evaluation pipeline](https://github.com/shivamhwp/sm-evals)
 - include mulitple scripts to evaluate and plot graphs etc.
 
