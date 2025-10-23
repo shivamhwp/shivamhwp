@@ -1,30 +1,30 @@
 ## shivam
 
-### experience
-<b>[supermemory](https://supermemory.ai)</b>
+## work exp.
+### [supermemory](https://supermemory.ai)
 - did ai research, testing, evals and other stuff.
 
-### stuff i built
+## stuff i built
 
-### [0bs.chat](https://github.com/0bs-chat/zerobs)
+* ### [0bs.chat](https://github.com/0bs-chat/zerobs)
 
-### [ai evaluation pipeline](https://github.com/shivamhwp/sm-evals)
-- include mulitple scripts to evaluate and plot graphs etc.
+* ### [ai evaluation pipeline](https://github.com/shivamhwp/sm-evals)
+  - include mulitple scripts to evaluate and plot graphs etc.
 
-### [git-acm](https://git.new/git-acm) 
+* ### [git-acm](https://git.new/git-acm) 
 
-- cli app that generates commit messages instantly and locally with AI | written in rust.
-- ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm?labelColor=%23222&color=white)
+  - cli app that generates commit messages instantly and locally with AI | written in rust.
+  - ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm?labelColor=%23222&color=white)
 
-### [isup](https://git.new/isup)
+* ### [isup](https://git.new/isup)
 
-- on-device monitoring. super-lightweight, efficient and instant | written in rust.
-- ![Crates.io Total Downloads](https://img.shields.io/crates/d/isup?labelColor=%23222&color=white)
+  - on-device monitoring. super-lightweight, efficient and instant | written in rust.
+  - ![Crates.io Total Downloads](https://img.shields.io/crates/d/isup?labelColor=%23222&color=white)
 
 ### Education
 
 B.Tech CS - dropped out.
 
 - site: [shivam.ing](https://shivam.ing)
-- twitter: [shivamhwp](https://twitter.com/shivamhwp)
+- x(formely twitter): [shivamhwp](https://twitter.com/shivamhwp)
 
