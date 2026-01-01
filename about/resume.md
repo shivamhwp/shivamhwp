@@ -1,34 +1,31 @@
 ## shivam
 
-## work exp.
+[shivam.ing](https://sham.ing) · [@shivamhwp](https://twitter.com/shivamhwp)
 
-### [agentsonweb.com](https://github.com/shivamhwp/agentsonweb)
-- any agent cli running on cloud.
-  
-### [supermemory](https://supermemory.com)
-- did ai research, testing, evals and other stuff.
 
-## stuff i built
+### work exp
 
-* ### [0bs.chat](https://github.com/0bs-chat/zerobs)
+**[supermemory](https://x.com/supermemory)** – did ai research, testing, evals and other stuff.
 
-* ### [ai evaluation pipeline](https://github.com/shivamhwp/sm-evals)
-  - include mulitple scripts to evaluate and plot graphs etc.
 
-* ### [git-acm](https://git.new/git-acm) 
+### stuff i built
 
-  - cli app that generates commit messages instantly and locally with AI | written in rust.
-  - ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm?labelColor=%23222&color=white)
+*   **[agentsonweb](https://github.com/shivamhwp/agentsonweb)**
+     - run background agents on cloud.
 
-* ### [isup](https://git.new/isup)
+*   **[0bs.chat](https://github.com/0bs-chat/zerobs)**
+     - the ai chat app for power users.
 
-  - on-device monitoring. super-lightweight, efficient and instant | written in rust.
-  - ![Crates.io Total Downloads](https://img.shields.io/crates/d/isup?labelColor=%23222&color=white)
+*   **[sm-evals](https://github.com/shivamhwp/sm-evals)**
+     - ran beir and plotting diff graphs on supermemory v2 api.
 
-### Education
+*   **[git-acm](https://git.new/git-acm)** – ai commit-msg generator in rust
+     - ![Crates.io Total Downloads](https://img.shields.io/crates/d/git-acm?labelColor=%23222&color=white)
 
-B.Tech CS - dropped out.
+*   **[isup](https://git.new/isup)** – on-device monitor in rust
+     - ![Crates.io Total Downloads](https://img.shields.io/crates/d/isup?labelColor=%23222&color=white)
 
-- site: [shivam.ing](https://shivam.ing)
-- x(formely twitter): [shivamhwp](https://twitter.com/shivamhwp)
 
+### education
+
+B.Tech CS – dropped out
