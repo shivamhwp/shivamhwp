@@ -12,6 +12,7 @@
 
 *   **[agentsonweb](https://github.com/shivamhwp/agentsonweb)**
      - run background agents on cloud.
+     - currently building.
 
 *   **[0bs.chat](https://github.com/0bs-chat/zerobs)**
      - the ai chat app for power users.
