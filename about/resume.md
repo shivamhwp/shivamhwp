@@ -2,7 +2,7 @@
 
 ## work exp.
 
-### [agentsonweb.com](https://agents)
+### [agentsonweb.com](https://github.com/shivamhwp/agentsonweb)
 - any agent cli running on cloud.
   
 ### [supermemory](https://supermemory.com)
